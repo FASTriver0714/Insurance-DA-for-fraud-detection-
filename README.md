@@ -147,3 +147,12 @@
 - **모델 고도화**: Recall 개선을 위한 임계값(threshold) 조정, 앙상블 기법 적용
 - **실시간 연동**: 신규 보험 청구 건에 대해 실시간으로 사기 위험도를 산출하는 파이프라인 구축
 - **추가 변수 분석**: 시간 변수(사고~청구 간 소요일수), 지역 변수 등과의 교차 분석 확대
+
+
+## 🧾 대시보드 
+
+[PowerBI 대시보드](https://app.powerbi.com/view?r=eyJrIjoiZWFmNDY4MzktZjljYS00YjE0LTlkNGEtZjYzNGQ0OTUzZGQ4IiwidCI6Ijg4ZDQ0NWU1LWU5YjAtNGNkMy04MTVmLTQwZjhhMzAwOWI0MiIsImMiOjEwfQ%3D%3D) ⬅️ PowerBI 웹게시링크
+
+[원본 다운로드](https://drive.google.com/file/d/1anMZda0bhGbTSkPnaTfwqVuNjhCbwKbh/view?usp=sharing)
+
+[PDF](https://drive.google.com/file/d/1IvF3ayJLQykQXyMKk6SREgMf2D7jMUft/view?usp=sharing)
