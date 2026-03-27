@@ -1,0 +1,41 @@
+type,names,scores,policy_type
+univariate,Make,0.25641833969918737,All Perils
+univariate,VehiclePrice_num,0.20048691423517662,All Perils
+univariate,VehicleCategory,0.024732803184593297,All Perils
+univariate,AgeOfVehicle,0.18201373839693802,All Perils
+univariate,Sex,0.14879848867612472,All Perils
+univariate,MaritalStatus,0.08311115817468617,All Perils
+univariate,Age,0.27675198382976995,All Perils
+univariate,DriverRating,0.18104272272390992,All Perils
+univariate,AgeOfPolicyHolder,0.3410855090888704,All Perils
+univariate,NumberOfCars,0.06531451543927326,All Perils
+univariate,PastNumberOfClaims,0.07257120959782401,All Perils
+univariate,PolicyType,0.024128197447999176,All Perils
+univariate,Deductible,0.04496361843266553,All Perils
+univariate,AgentType,0.0,All Perils
+univariate,NumberOfSuppliments,0.2656394846890158,All Perils
+univariate,Days_Policy_Accident,0.0012606262412043021,All Perils
+univariate,Days_Policy_Claim,0.004884188702923104,All Perils
+univariate,PoliceReportFiled,0.11409351916117905,All Perils
+univariate,WitnessPresent,0.017198337543434805,All Perils
+univariate,AddressChange_Claim_2,0.009589000945833186,All Perils
+univariate,Make,0.18578405567207742,Collision
+univariate,VehiclePrice_num,0.14320822773243275,Collision
+univariate,VehicleCategory,0.025770958544770246,Collision
+univariate,AgeOfVehicle,0.132476153662018,Collision
+univariate,Sex,0.2025622557671304,Collision
+univariate,MaritalStatus,0.1712425974520577,Collision
+univariate,Age,0.32953221041536407,Collision
+univariate,DriverRating,0.2246528973490148,Collision
+univariate,AgeOfPolicyHolder,0.28040394486699544,Collision
+univariate,NumberOfCars,0.09097138094825127,Collision
+univariate,PastNumberOfClaims,0.16520077045634007,Collision
+univariate,PolicyType,0.05379575533308955,Collision
+univariate,Deductible,0.04329178405522197,Collision
+univariate,AgentType,0.05278674566766209,Collision
+univariate,NumberOfSuppliments,0.24598070572949987,Collision
+univariate,Days_Policy_Accident,0.034070754915694605,Collision
+univariate,Days_Policy_Claim,0.0029372060743488113,Collision
+univariate,PoliceReportFiled,0.10431854652631417,Collision
+univariate,WitnessPresent,0.018028630918160975,Collision
+univariate,AddressChange_Claim_2,0.02608600869785816,Collision
