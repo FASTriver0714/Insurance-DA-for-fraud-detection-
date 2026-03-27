@@ -15,33 +15,6 @@
 
 ---
 
-## 🗂️ 프로젝트 구조
-
-```
-📦 insurance-fraud-detection/
-├── data/
-│   └── fraud_oracle.csv              # 원본 데이터셋
-├── notebooks/
-│   ├── 1전처리_EDA.ipynb              # 데이터 탐색 및 기초 EDA
-│   ├── 2심화EDA.ipynb                 # 통계 검정 자동화 및 유의미 변수 선별
-│   ├── 3EDA1.ipynb                    # 가설 1: 차량 가격과 보험 사기
-│   ├── 4EDA2.ipynb                    # 가설 2: 주소 변경과 보험 사기
-│   ├── 5EDA취합하기.ipynb              # EDA 결과 취합 및 시각화 정리
-│   ├── 6InterpretableML.ipynb         # EBM 모델링 및 해석
-│   └── 7ML_대시보드전처리.ipynb         # 모델 예측값 생성 및 대시보드용 데이터 출력
-├── powerBI/
-│   ├── raw_data_with_predictions.csv  # 원본 + 모델 예측값
-│   ├── global_df.csv                  # 변수 중요도 (Global Explanation)
-│   ├── all_perils_ebm.json            # All Perils EBM 모델
-│   └── collision_ebm.json             # Collision EBM 모델
-├── utils.py                           # 시각화 유틸리티 (기본)
-├── utils2.py                          # 시각화 유틸리티 (FraudFound_P 색상 구분)
-├── stat_utils.py                      # 통계 검정 자동화 함수
-└── README.md
-```
-
----
-
 ## 📊 데이터셋 설명
 
 | 구분 | 변수 | 설명 |
